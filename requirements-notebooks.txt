@@ -1,0 +1,4 @@
+# Optional notebook support; pipeline scripts use the standard library.
+ipykernel>=6.29,<7
+nbclient>=0.10,<1
+pandas>=2.2,<4
